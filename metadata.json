@@ -1,0 +1,6 @@
+{
+  "name": "Saburov Chat",
+  "description": "Dizayn zo'r bo'lgan, api.saburov.uz integratsiyasiga ega, real vaqt rejimida ishlaydigan zamonaviy xabar almashish ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
